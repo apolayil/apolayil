@@ -1,6 +1,6 @@
 ### about me:
 
-# Hi there 👋  
+## Hi there 👋  
 
 # Interests
 - Reverse engineering with **Ghidra**
