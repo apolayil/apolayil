@@ -3,6 +3,6 @@
 ## Hi there 👋  
 
 # Interests
-- Reverse engineering with **Ghidra**
+- Reverse engineering with Ghidra
 - Circuit and PCB design
 - Linux systems and tooling
